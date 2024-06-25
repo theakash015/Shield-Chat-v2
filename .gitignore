@@ -1,0 +1,5 @@
+venv
+test.py
+test_anom.py
+__pycache__
+.ipynb_checkpoints
